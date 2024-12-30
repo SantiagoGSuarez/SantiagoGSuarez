@@ -8,7 +8,7 @@ Soy egresado de la carrera de Tecnólogo en Análisis y Desarrollo de Sistemas d
 
 Durante mi formación, trabajé con las siguientes tecnologías:
 
-- **Lenguajes de programación:** <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+- **Lenguajes de programación:** <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20" /></a>
 Java, Python, HTML, CSS, JavaScript, PHP
 - **Frameworks y herramientas:** 
   - Android Studio (Java)
