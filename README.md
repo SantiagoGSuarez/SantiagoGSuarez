@@ -8,16 +8,28 @@ Soy egresado de la carrera de Tecnólogo en Análisis y Desarrollo de Sistemas d
 
 Durante mi formación, trabajé con las siguientes tecnologías:
 
-- **Lenguajes de programación:**<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20" /></a> Java, <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" /></a> Python, <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" /></a> HTML, <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" /></a> CSS, <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /></a> JavaScript, <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20" /></a> PHP
-- **Frameworks y herramientas:** 
-  - Android Studio (Java)
-  - Spring Boot (como API REST)
-  - MySQL (bases de datos relacionales)
-- **Áreas de interés:** 
-  - Desarrollo web
-  - Desarrollo desktop
-  - Desarrollo móvil
-  - Inteligencia artificial
+- **Lenguajes de programación:**  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20" /></a> Java,  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" /></a> Python,  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /></a> JavaScript,  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20" /></a> PHP
+
+- **Desarrollo Frontend 🌐**  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" /></a> HTML,  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" /></a> CSS
+
+- **Desarrollo Backend ⚙️**  
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20" /></a> Spring Boot (Creación de APIs REST)
+
+- **Desarrollo de Aplicaciones Móviles 📱**  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20" /></a> Android Studio (Java)
+
+- **Inteligencia Artificial y Aprendizaje Automático 🤖**  
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20" /></a> TensorFlow
+  <a target="_blank" href="https://viz.mediapipe.dev/logo.png" style="display: inline-block;"><img src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="20" height="20" /></a> MediaPipe
+
+- **Bases de Datos 💾**  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20" /></a></p> MySQL
 
 ---
 
