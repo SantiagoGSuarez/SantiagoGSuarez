@@ -54,7 +54,7 @@ Aplicación móvil para la divulgación de promociones de productos entre Rivera
 
 ## Participación en Eventos 🌟
 
-- **<a target="_blank" href="https://lh3.googleusercontent.com/hU2J9YlLAqQQwo6R4kC_2UhCG8G928cKkNisO7mstj-iCXHAdxKCLokV7lcw9Tf8z4gbiLH7D_7tSO09gSSbB2s=w16383" style="display: inline-block;"><img src="https://lh3.googleusercontent.com/hU2J9YlLAqQQwo6R4kC_2UhCG8G928cKkNisO7mstj-iCXHAdxKCLokV7lcw9Tf8z4gbiLH7D_7tSO09gSSbB2s=w16383" alt="cintia" width="20" height="20" /></a>CINTIA 2024 (Durazno, Uruguay):**
+- **<a target="_blank" href="https://lh3.googleusercontent.com/hU2J9YlLAqQQwo6R4kC_2UhCG8G928cKkNisO7mstj-iCXHAdxKCLokV7lcw9Tf8z4gbiLH7D_7tSO09gSSbB2s=w16383" style="display: inline-block;"><img src="https://lh4.googleusercontent.com/1YM4VwQDFJQjIHQt2YKJGLD0tJe1jwRUKROZC7AiYjJpU-GrIvZzu04Pfzf5089k2nXffNAprR0n53YAt3TVqhJ7_aE4zAl-C-Jd_3OA6FIc-K2uPv3DJmdPYA4AFY6ufA=w1280" alt="cintia" width="20" height="20" /></a>CINTIA 2024 (Durazno, Uruguay):**
   Conferencia Internacional en Aplicaciones de Inteligencia Artificial enfocada en el uso de IA para resolver problemáticas en diversas áreas como robótica, medicina, agricultura, y más. Este evento reunió a investigadores y expertos internacionales en el campo de la inteligencia artificial.
 
 ---
