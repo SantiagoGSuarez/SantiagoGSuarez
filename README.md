@@ -28,12 +28,11 @@ src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" 
 - **Inteligencia Artificial y Aprendizaje Automático 🤖**  
   <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img 
 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20" /></a> TensorFlow
-
   <a target="_blank" href="https://viz.mediapipe.dev/logo.png" style="display: inline-block;"><img 
 src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="20" height="20" /></a> MediaPipe
 
 - **Bases de Datos 💾**  
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /></a></p> MySQL
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /></a> MySQL
 
 ---
 
