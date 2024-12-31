@@ -18,7 +18,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
   <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="18" height="18" /></a> Spring Boot (Creación de APIs REST)
 
 - **Desarrollo de Aplicaciones Móviles 📱**  
-  <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android" width="20" height="20" /></a> <img src="https://img.shields.io/badge/-Android Studio (Java)-green?style=for-the-badge&color=3fFD7f">
+  <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android" width="22" height="22" /></a> <img src="https://img.shields.io/badge/-Android Studio (Java)-blue?style=for-the-badge&color=4285f4">
 
 - **Inteligencia Artificial y Aprendizaje Automático 🤖**  
   <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20" /></a> TensorFlow,  <a target="_blank" href="https://viz.mediapipe.dev/logo.png" style="display: inline-block;"><img src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="20" height="20" /></a> MediaPipe
