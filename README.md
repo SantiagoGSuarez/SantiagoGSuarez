@@ -73,20 +73,6 @@ Durante mi formación, trabajé con las siguientes tecnologías:
   </tr>
 </table>
 
-
-![Pantalla Principal](SevenEBasic/pantalla%20principal.PNG "Pantalla Principal")        
-### SevenEBasic  
-Aplicación de escritorio desarrollada en Python para la detección y análisis de emociones humanas basadas en las siete emociones básicas de Paul Ekman.  
-- **Tecnologías utilizadas:** Python, MediaPipe, TensorFlow, Tkinter  
-- **Destacado en:** Presentado el día **09-10-2024** en el evento [**CINTIA 2024**](https://sites.google.com/view/cintia-aria/2024/presentaciones?authuser=0), Durazno, Uruguay.
-- **[Ver repositorio](#)** _(Pendiente agregar enlace)_  
-
-![Pantalla Principal](SevenEBasic/pantalla%20principal.PNG "Pantalla Principal")        
-### Economapa  
-Aplicación móvil para la divulgación de promociones de productos entre Rivera y Santana do Livramento, diseñada para turistas y compradores en la frontera. La app muestra productos en promoción con detalles como precio bruto, precio con descuento y ubicación de las empresas.  
-- **Tecnologías utilizadas:** Android Studio (Java), OpenStreetMap API, Spring Boot  
-- **[Ver repositorio](#)** _(Pendiente agregar enlace)_
- 
 ---
 
 ## Formación Académica 📘
