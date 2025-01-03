@@ -67,8 +67,8 @@ Durante mi formación, trabajé con las siguientes tecnologías:
         </p>
         <ul>
           <li><b>Tecnologías utilizadas:</b> Android Studio (Java), OpenStreetMap API, Spring Boot</li>
-          <p style="color:transparent;">Espacio para alinear contenido.</p>
-          <p style="color:transparent;">Espacio para alinear contenido.</p>
+          <li style="color:transparent;" ><b style="color:transparent;"> </b> <b> </b> 
+          <a style="color:transparent;" href="#"> </a> </li>
         </ul>
       </div>
     </td>
