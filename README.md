@@ -35,7 +35,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
     <td width="50%">
       <h3 align="center">SevenEBasic</h3>
       <div align="center">
-        <a href="#"><img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal" width="400"></a>
+        <a href="#"><img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal" width="250"></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -56,7 +56,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
   <td width="50%">
       <h3 align="center">Economapa</h3>
       <div align="center">
-        <a href="#"><img src="Economapa/Economapa.png" alt="Economapa" width="400"></a>
+        <a href="#"><img src="Economapa/Economapa.png" alt="Economapa" width="250"></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-FF0000?style=for-the-badge&logo=github&logoColor=black">
