@@ -31,7 +31,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
 
 <table>
   <tr>
-    <!-- Columna para SevenEBasic -->
+  <!-- Columna para SevenEBasic -->
     <td width="50%" style="vertical-align:top; min-height:500px;">
       <h3 align="center">SevenEBasic</h3>
       <div align="center">
