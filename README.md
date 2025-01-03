@@ -31,24 +31,44 @@ Durante mi formación, trabajé con las siguientes tecnologías:
 
 <table>
   <tr>
-    <td style="padding: 10px; text-align: center; vertical-align: top;">
-      <img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal SevenEBasic" width="200">
-      <h3>SevenEBasic</h3>
-      <p>Aplicación de escritorio desarrollada en Python para la detección y análisis de emociones humanas basadas en las siete emociones básicas de Paul Ekman.</p>
-      <ul>
-        <li><b>Tecnologías utilizadas:</b> Python, MediaPipe, TensorFlow, Tkinter</li>
-        <li><b>Destacado en:</b> Presentado el día <b>09-10-2024</b> en el evento <a href="https://sites.google.com/view/cintia-aria/2024/presentaciones?authuser=0">CINTIA 2024</a>, Durazno, Uruguay.</li>
-        <li><a href="#">Ver repositorio</a> _(Pendiente agregar enlace)_</li>
-      </ul>
+    <!-- Columna para SevenEBasic -->
+    <td width="50%">
+      <h3 align="center">SevenEBasic</h3>
+      <div align="center">
+        <a href="#"><img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal" width="250"></a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Aplicación de escritorio desarrollada en Python para la detección y análisis de emociones humanas basadas en las siete emociones básicas de Paul Ekman.
+        </p>
+        <ul>
+          <li><b>Tecnologías utilizadas:</b> Python, MediaPipe, TensorFlow, Tkinter</li>
+          <li><b>Destacado en:</b> Presentado el día <b>09-10-2024</b> en el evento 
+          <a href="https://sites.google.com/view/cintia-aria/2024/presentaciones?authuser=0">CINTIA 2024</a>, Durazno, Uruguay.</li>
+        </ul>
+      </div>
     </td>
-    <td style="padding: 10px; text-align: center; vertical-align: top;">
-      <img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal Economapa" width="200">
-      <h3>Economapa</h3>
-      <p>Aplicación móvil para la divulgación de promociones de productos entre Rivera y Santana do Livramento, diseñada para turistas y compradores en la frontera. La app muestra productos en promoción con detalles como precio bruto, precio con descuento y ubicación de las empresas.</p>
-      <ul>
-        <li><b>Tecnologías utilizadas:</b> Android Studio (Java), OpenStreetMap API, Spring Boot</li>
-        <li><a href="#">Ver repositorio</a> _(Pendiente agregar enlace)_</li>
-      </ul>
+
+  <!-- Columna para Economapa -->
+  <td width="50%">
+      <h3 align="center">Economapa</h3>
+      <div align="center">
+        <a href="#"><img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal" width="250"></a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-FF0000?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Aplicación móvil para la divulgación de promociones de productos entre Rivera y Santana do Livramento, diseñada para turistas y compradores en la frontera.
+        </p>
+        <ul>
+          <li><b>Tecnologías utilizadas:</b> Android Studio (Java), OpenStreetMap API, Spring Boot</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
