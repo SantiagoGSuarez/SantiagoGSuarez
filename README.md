@@ -32,7 +32,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
 <table>
   <tr>
     <!-- Columna para SevenEBasic -->
-    <td width="50%">
+    <td width="80%">
       <h3 align="center">SevenEBasic</h3>
       <div align="center">
         <a href="#"><img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal" width="250"></a>
@@ -53,7 +53,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
     </td>
 
   <!-- Columna para Economapa -->
-  <td width="50%">
+  <td width="80%">
       <h3 align="center">Economapa</h3>
       <div align="center">
         <a href="#"><img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal" width="250"></a>
