@@ -66,7 +66,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
           Aplicación móvil para la divulgación de promociones de productos entre Rivera y Santana do Livramento, diseñada para turistas y compradores en la frontera.
         </p>
         <ul>
-          <li><b>Tecnologías utilizadas:</b> Android Studio (Java), OpenStreetMap API, Spring Boot</li>
+          <li><b>Tecnologías utilizadas:</b> Android Studio (Java), OpenStreetMap, Spring Boot</li>
           <br />
           <br />
         </ul>
