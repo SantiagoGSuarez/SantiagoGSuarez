@@ -38,7 +38,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
         <a href="SevenEBasic/pantalla%20principal.PNG" target="_blank"><img src="SevenEBasic/pantalla%20principal.PNG" alt="Pantalla Principal" width="350"></a>
         <p>
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-006400?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-2F4F4F?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>
