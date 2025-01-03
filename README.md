@@ -68,6 +68,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
         <ul>
           <li><b>Tecnologías utilizadas:</b> Android Studio (Java), OpenStreetMap API, Spring Boot</li>
           <br />
+          <br />
         </ul>
       </div>
     </td>
