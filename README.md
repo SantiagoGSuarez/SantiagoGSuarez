@@ -28,7 +28,8 @@ Durante mi formación, trabajé con las siguientes tecnologías:
 ---
 
 ## Proyectos Destacados 🚀
-
+        
+<img src="SevenEBasic/pantalla principal.png" alt="SevenEBasic">
 ### SevenEBasic  
 Aplicación de escritorio desarrollada en Python para la detección y análisis de emociones humanas basadas en las siete emociones básicas de Paul Ekman.  
 - **Tecnologías utilizadas:** Python, MediaPipe, TensorFlow, Tkinter  
