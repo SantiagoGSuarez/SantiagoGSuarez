@@ -41,7 +41,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
             <img src="https://img.shields.io/badge/C%C3%93DIGO-00A36C?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>
+        <p style="padding: 10%;">
           Aplicación de escritorio desarrollada en Python para la detección y análisis de emociones humanas basadas en las siete emociones básicas de Paul Ekman.
         </p>
         <ul>
