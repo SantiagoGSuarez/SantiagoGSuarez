@@ -58,7 +58,7 @@ Durante mi formación, trabajé con las siguientes tecnologías:
       <div align="center">
         <a href="Economapa/Economapa.png" target="_blank"><img src="Economapa/Economapa.png" alt="Economapa" width="350"></a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/SantiagoGSuarez/Economapa" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-009688?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
