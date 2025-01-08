@@ -107,7 +107,7 @@ Actualmente, no tengo experiencia laboral formal, pero estoy explorando distinta
 
 - **Correo electrónico:** santiagosuarez76.035@gmail.com 
 - **GitHub:** [SantiagoGSuarez](https://github.com/SantiagoGSuarez)  
-- **LinkedIn:** [Santiago González Suárez](https://linkedin.com/in/santiago-gonzález-suárez-094863345)  
+- **LinkedIn:** [Santiago González Suárez](https://linkedin.com/in/santiago-gonzález-suárez)  
 
 ---
 
