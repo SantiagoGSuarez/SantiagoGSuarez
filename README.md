@@ -12,6 +12,10 @@ Soy egresado de la carrera Tecnólogo en Análisis y Desarrollo de Sistemas del 
   <img src="https://custom-icon-badges.demolab.com/badge/-Download_CV-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
 </a>
 
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/SantiagoGSuarez/SantiagoGSuarez/main/Doc/CV-Santiago.pdf" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Download_CV-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
+</a>
+
 
 ---
 
