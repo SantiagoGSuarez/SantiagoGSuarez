@@ -5,7 +5,7 @@
 Soy egresado de la carrera Tecnólogo en Análisis y Desarrollo de Sistemas del Instituto Federal Sul-Rio-Grandense (IFSUL), campus Santana do Livramento. Me apasiona aprender sobre tecnologías y resolver problemas a través del desarrollo de software. Actualmente, estoy explorando diversas áreas, como el desarrollo web, de escritorio y móvil, además de roles en backend y frontend. Aunque todavía estoy definiendo mi enfoque principal, estoy comprometido con mi desarrollo profesional y el aprendizaje continuo.
 
 <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/SantiagoGSuarez/SantiagoGSuarez/main/Doc/CV-Santiago.pdf" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Ver_CV-lightgrey?style=for-the-badge&logo=eye&logoColor=grey" alt="Ver CV" width="75">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Ver_CV-lightgrey?style=for-the-badge&logo=eye&logoColor=black" alt="Ver CV" width="75">
 </a>
 
 ---
