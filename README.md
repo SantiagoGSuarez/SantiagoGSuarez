@@ -5,7 +5,9 @@
 Soy egresado de la carrera Tecnólogo en Análisis y Desarrollo de Sistemas del Instituto Federal Sul-Rio-Grandense (IFSUL), campus Santana do Livramento. Me apasiona aprender sobre tecnologías y resolver problemas a través del desarrollo de software. Actualmente, estoy explorando diversas áreas, como el desarrollo web, de escritorio y móvil, además de roles en backend y frontend. Aunque todavía estoy definiendo mi enfoque principal, estoy comprometido con mi desarrollo profesional y el aprendizaje continuo.
 
 <a target="_blank" href="https://linkedin.com/in/santiago-gonzález-suárez" style="display: inline-block; "><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&color=0077B5" width="75"><a/>
-<a target="_blank" href="santiagosuarez76.035@gmail.com" style="display: inline-block; "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="74"><a/>
+
+<a target="_blank" href="mailto:santiagosuarez76.035@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="74"></a>
+
 <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/SantiagoGSuarez/SantiagoGSuarez/main/Doc/CV-Santiago.pdf" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Ver_CV-lightgrey?style=for-the-badge&logo=eye&logoColor=black" alt="Ver CV" width="75"></a>
 
 ---
